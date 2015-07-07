@@ -12,5 +12,25 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect('/en');
+});
+
+Route::group(['prefix' => '{locale}'], function ($locale) {
+    App::setLocale($locale);
+
+    Route::get('/', function () {
+        return view('welcome');
+    });
+    Route::get('/about', function () {
+        return view('about');
+    });
+    Route::get('/services', function () {
+        return view('services');
+    });
+    Route::get('/products', function () {
+        return view('products');
+    });
+    Route::get('/contact', function () {
+        return view('contact');
+    });
 });
