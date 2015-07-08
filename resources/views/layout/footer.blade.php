@@ -10,11 +10,11 @@
                         </div>
 
                         <ul>
-                            <li><a href="/">Home</a></li>
-                            <li><a href="/about">About us</a></li>
-                            <li><a href="/services">Our Services</a></li>
-                            <li><a href="/product">Our Products</a></li>
-                            <li><a href="/contact">Contact us</a></li>
+                            <li><a href="/{{Lang::getLocale()}}">Home</a></li>
+                            <li><a href="/{{Lang::getLocale()}}/about">About us</a></li>
+                            <li><a href="/{{Lang::getLocale()}}/services">Our Services</a></li>
+                            <li><a href="/{{Lang::getLocale()}}/product">Our Products</a></li>
+                            <li><a href="/{{Lang::getLocale()}}/contact">Contact us</a></li>
                         </ul>
                     </li><!-- .widget-pages end -->
                 </ul><!-- .col-md-3.footer-widget-container end -->

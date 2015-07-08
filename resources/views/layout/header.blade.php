@@ -66,23 +66,23 @@
                             <div class="collapse navbar-collapse">
                                 <ul class="nav navbar-nav">
                                     <li class="dropdown current-menu-item">
-                                        <a href="/" >Home</a>
+                                        <a href="/{{Lang::getLocale()}}" >Home</a>
                                     </li><!-- .dropdown end -->
 
                                     <li class="dropdown">
-                                        <a href="/about" >About</a>
+                                        <a href="/{{Lang::getLocale()}}/about" >About</a>
                                     </li><!-- .dropdown end -->
 
                                     <li class="dropdown">
-                                        <a href="/services" >Services</a>
+                                        <a href="/{{Lang::getLocale()}}/services" >Services</a>
                                     </li><!-- .dropdown end -->
 
                                     <li class="dropdown">
-                                        <a href="/products" >Products</a>
+                                        <a href="/{{Lang::getLocale()}}/products" >Products</a>
                                     </li><!-- .dropdown end -->
 
                                     <li class="dropdown">
-                                        <a href="/contact" >Contact</a>
+                                        <a href="/{{Lang::getLocale()}}/contact" >Contact</a>
                                     </li><!-- .dropdown end -->
                                 </ul><!-- .nav.navbar-nav end -->
                             </div><!-- MAIN NAVIGATION END -->
@@ -92,22 +92,22 @@
 
                                 <ul class="dl-menu">
                                     <li>
-                                        <a href="/">Home</a>
+                                        <a href="/{{Lang::getLocale()}}">Home</a>
                                     </li>
 
                                     <li>
-                                        <a href="/about">About</a>
+                                        <a href="/{{Lang::getLocale()}}/about">About</a>
                                     </li>
 
                                     <li>
-                                        <a href="/services">Services</a>
+                                        <a href="/{{Lang::getLocale()}}/services">Services</a>
                                     </li>
 
                                     <li>
-                                        <a href="/products">Products</a>
+                                        <a href="/{{Lang::getLocale()}}/products">Products</a>
                                     </li>
                                     <li>
-                                        <a href="/contact">Contact</a>
+                                        <a href="/{{Lang::getLocale()}}/contact">Contact</a>
                                     </li>
                                 </ul><!-- .dl-menu end -->
                             </div><!-- #dl-menu end -->
