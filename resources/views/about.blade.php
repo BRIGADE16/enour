@@ -4,22 +4,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1>Services - Supply Chain Management</h1>
+                    <h1>About</h1>
 
                     <div class="breadcrumb-container">
                         <ul class="breadcrumb clearfix">
                             <li>You are here:</li>
 
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="/{{Lang::getLocale()}}/">Home</a>
                             </li>
 
                             <li>
-                                <a href="services02.html">Services</a>
-                            </li>
-
-                            <li>
-                                <a href="#">Supply chain management</a>
+                                <a href="/{{Lang::getLocale()}}/about">About</a>
                             </li>
                         </ul><!-- .breadcrumb end -->
                     </div><!-- .breadcrumb-container end -->
@@ -43,16 +39,7 @@
                     </div>
 
                     <p>
-                        A wonderful serenity has taken possession of my
-                        entire soul, like these sweet mornings of spring
-                        which I enjoy with my whole heart. I am alone, and
-                        feel the charm of existence in this spot, which was
-                        created for the bliss of souls like mine. I am so
-                        happy, my dear friend, so absorbed in the exquisite
-                        sense of mere tranquil existence, that I neglect my
-                        talents. I should be incapable of drawing a single
-                        stroke at the present moment; and yet I feel that
-                        I never was a greater artist than now.
+                        Lorem ipsum dolor sit amet, at pro esse legere scripta. Ex facilisi sensibus eam. An feugait adversarium mea, no mea summo deterruisset. Ex vocibus appetere inciderint eum. Nibh nonumy facilisi eos eu, in pri enim vero propriae. Nam cu inermis mediocrem scriptorem.
                     </p>
 
                     <br>
@@ -64,24 +51,10 @@
                             </div><!-- .icon-date-container end -->
 
                             <div class="timeline-item-details">
-                                <h3>2008 Creating powerful logisics and transport network</h3>
+                                <h3>2008</h3>
 
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste
-                                    natus error sit voluptatem accusantium
-                                    doloremque laudantium, totam rem aperiam,
-                                    eaque ipsa quae ab illo inventore
-                                    veritatis et quasi architecto beatae
-                                    vitae dicta sunt explicabo. Nemo enim
-                                    ipsam voluptatem quia voluptas sit
-                                    aspernatur aut odit aut fugit, sed quia
-                                    consequuntur magni dolores eos qui
-                                    ratione voluptatem sequi nesciunt. Neque
-                                    porro quisquam est, qui dolorem ipsum
-                                    quia dolor sit amet, consectetur,
-                                    adipisci velit, sed quia non numquam
-                                    eius modi tempora incidunt ut labore et
-                                    dolore magnam aliquam quaerat voluptatem.
+                                    Lorem ipsum dolor sit amet, at pro esse legere scripta. Ex facilisi sensibus eam. An feugait adversarium mea, no mea summo deterruisset. Ex vocibus appetere inciderint eum. Nibh nonumy facilisi eos eu, in pri enim vero propriae. Nam cu inermis mediocrem scriptorem.
                                 </p>
                             </div><!-- .timeline-item-details end -->
                         </li><!-- history item end -->
@@ -92,24 +65,10 @@
                             </div><!-- .icon-date-container end -->
 
                             <div class="timeline-item-details">
-                                <h3>2010 Incorporating End-to-end solutions</h3>
+                                <h3>2010</h3>
 
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste
-                                    natus error sit voluptatem accusantium
-                                    doloremque laudantium, totam rem aperiam,
-                                    eaque ipsa quae ab illo inventore
-                                    veritatis et quasi architecto beatae
-                                    vitae dicta sunt explicabo. Nemo enim
-                                    ipsam voluptatem quia voluptas sit
-                                    aspernatur aut odit aut fugit, sed quia
-                                    consequuntur magni dolores eos qui
-                                    ratione voluptatem sequi nesciunt. Neque
-                                    porro quisquam est, qui dolorem ipsum
-                                    quia dolor sit amet, consectetur,
-                                    adipisci velit, sed quia non numquam
-                                    eius modi tempora incidunt ut labore et
-                                    dolore magnam aliquam quaerat voluptatem.
+                                    Lorem ipsum dolor sit amet, at pro esse legere scripta. Ex facilisi sensibus eam. An feugait adversarium mea, no mea summo deterruisset. Ex vocibus appetere inciderint eum. Nibh nonumy facilisi eos eu, in pri enim vero propriae. Nam cu inermis mediocrem scriptorem.
                                 </p>
                             </div><!-- .timeline-item-details end -->
                         </li><!-- history item end -->
@@ -123,43 +82,23 @@
                                 <h3>2014 Expanding our network</h3>
 
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste
-                                    natus error sit voluptatem accusantium
-                                    doloremque laudantium, totam rem aperiam,
-                                    eaque ipsa quae ab illo inventore
-                                    veritatis et quasi architecto beatae
-                                    vitae dicta sunt explicabo. Nemo enim
-                                    ipsam voluptatem quia voluptas sit
-                                    aspernatur aut odit aut fugit, sed quia
-                                    consequuntur magni dolores eos qui
-                                    ratione voluptatem sequi nesciunt. Neque
-                                    porro quisquam est, qui dolorem ipsum
-                                    quia dolor sit amet, consectetur,
-                                    adipisci velit, sed quia non numquam
-                                    eius modi tempora incidunt ut labore et
-                                    dolore magnam aliquam quaerat voluptatem.
+                                    Lorem ipsum dolor sit amet, at pro esse legere scripta. Ex facilisi sensibus eam. An feugait adversarium mea, no mea summo deterruisset. Ex vocibus appetere inciderint eum. Nibh nonumy facilisi eos eu, in pri enim vero propriae. Nam cu inermis mediocrem scriptorem.
                                 </p>
 
                                 <ul class="fa-ul clearfix">
                                     <li>
                                         <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Higher quality service by optimizing
-                                        transport routes, means of transportation and reducing costs
+                                        Lorem ipsum dolor sit amet, at pro esse legere scripta. Ex facilisi sensibus eam. An feugait adversarium mea, no mea summo deterruisset.
                                     </li>
 
                                     <li>
                                         <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Strong optimized supply chain
-                                        infrastructure that will make a
-                                        competitive advantage to your
-                                        business
+                                        Lorem ipsum dolor sit amet, at pro esse legere scripta. Ex facilisi sensibus eam. An feugait adversarium mea, no mea summo deterruisset.
                                     </li>
 
                                     <li>
                                         <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Synchronized demand and supply which
-                                        will enable easier and more accurate
-                                        predictions of your clients needs
+                                        Lorem ipsum dolor sit amet, at pro esse legere scripta. Ex facilisi sensibus eam. An feugait adversarium mea, no mea summo deterruisset.
                                     </li>
                                 </ul><!-- .fa-ul end -->
                             </div><!-- .timeline-item-details end -->

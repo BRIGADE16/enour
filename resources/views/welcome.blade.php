@@ -4,7 +4,7 @@
     <div id="masterslider" class="master-slider ms-skin-default mb-0">
         <!-- slide start -->
         <div class="ms-slide">
-            <img src="masterslider/blank.gif" data-src="img/slider/slide05-01.jpg" alt=""/>
+            <img src="/masterslider/blank.gif" data-src="img/slider/slide05-01.jpg" alt=""/>
 
             <h2 class="ms-layer pi-caption01 pi-caption-dark"
                 style="left: 390px; top: 260px;"
@@ -33,7 +33,7 @@
                 services
             </h2>
 
-            <img class="ms-layer" src="masterslider/blank.gif" data-src="img/slider/slide05-02.png" alt=""
+            <img class="ms-layer" src="/masterslider/blank.gif" data-src="img/slider/slide05-02.png" alt=""
                  style="left: 390px; top: 220px;"
                  data-type="image"
                  data-delay="100"
@@ -61,7 +61,7 @@
 
         <!-- slide start -->
         <div class="ms-slide">
-            <img src="masterslider/blank.gif" data-src="img/slider/slide05-05.jpg" alt=""/>
+            <img src="/masterslider/blank.gif" data-src="img/slider/slide05-05.jpg" alt=""/>
 
             <h2 class="ms-layer pi-caption01 pi-caption-dark"
                 style="left: 390px; top: 340px;"
@@ -90,14 +90,14 @@
                 or sea
             </h2>
 
-            <img class="ms-layer" src="masterslider/blank.gif" data-src="img/slider/slide05-04.png" alt=""
+            <img class="ms-layer" src="/masterslider/blank.gif" data-src="img/slider/slide05-04.png" alt=""
                  style="left: 800px; top: 430px;"
                  data-type="image"
                  data-delay="100"
                  data-parallax="15"
                     />
 
-            <img class="ms-layer" src="masterslider/blank.gif" data-src="img/slider/slide05-03.png" alt=""
+            <img class="ms-layer" src="/masterslider/blank.gif" data-src="img/slider/slide05-03.png" alt=""
                  style="left: 1200px; top: 220px;"
                  data-type="image"
                  data-delay="100"
@@ -121,7 +121,7 @@
                 <div class="custom-heading02">
                     <h2>Our services</h2>
                     <p>
-                        More than just a trucking template
+                        Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea.
                     </p>
                 </div><!-- .custom-heading02 end -->
             </div><!-- .row end -->
@@ -146,13 +146,10 @@
                         </div><!-- .icon-container end -->
 
                         <div class="service-details">
-                            <h3>Contract logistics</h3>
+                            <h3>Contract </h3>
 
                             <p>
-                                Need custom logistic service? We got it
-                                covered. From overland, air, rail and sea
-                                transportation. Fast, safe and accurate
-                                shipment provided all over the globe.
+                                Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea.
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left end -->
@@ -200,10 +197,7 @@
                             <h3>Overland, Ocean and Air Freight</h3>
 
                             <p>
-                                trucking company offers the best logistics
-                                services using all mens of supply chain.
-                                Use our overland, ocean and air freight
-                                solutions for shipment of your goods.
+                                Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea.
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left end -->
@@ -243,11 +237,7 @@
                             <h3>Warehousing and Storage</h3>
 
                             <p>
-                                Trucking offers intelligent warehouse
-                                solution. Lower your storage and good
-                                maintenance by using our modern and
-                                intelligent warehouses. You can see all
-                                locations on location page.
+                                Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei <mea class=""></mea>
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left end -->
@@ -275,11 +265,7 @@
                             <h3>Consulting Services</h3>
 
                             <p>
-                                Don't know what mean of transportation
-                                would be right for you, or you need someone
-                                for full supply chain management? Please
-                                contact us. Our team of professionals will
-                                be happy to help.
+                                Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea.
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left end -->
@@ -325,9 +311,7 @@
 
                     <div class="statement">
                         <p>
-                            As a contractor we promise to take care of all
-                            supply chain management, to make your shipments
-                            travel safe, fast and on time.
+                            Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea.
                         </p>
                     </div>
                 </div><!-- .col-md-12 end -->
@@ -347,9 +331,9 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
-                                <img src="img/pics/team01.jpg" alt="">
+                                <img src="/img/pics/team01.jpg" alt="">
                                 <div class="team-details">
-                                    <h5>martha parker</h5>
+                                    <h5>Joe Joe</h5>
                                     <p class="position">
                                         Company founder
                                     </p>
@@ -359,9 +343,9 @@
 
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
-                                <img src="img/pics/team02.jpg" alt="">
+                                <img src="/img/pics/team02.jpg" alt="">
                                 <div class="team-details">
-                                    <h5>jonathan blum</h5>
+                                    <h5>Joe Joe</h5>
                                     <p class="position">
                                         Chief Technical Officer
                                     </p>
@@ -371,9 +355,9 @@
 
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
-                                <img src="img/pics/team03.jpg" alt="">
+                                <img src="/img/pics/team03.jpg" alt="">
                                 <div class="team-details">
-                                    <h5>tom beck</h5>
+                                    <h5>Joe Joe</h5>
                                     <p class="position">
                                         Chief Operations Officer
                                     </p>
@@ -385,19 +369,16 @@
 
                 <div class="col-md-3">
                     <div class="custom-heading">
-                        <h2>join our team</h2>
+                        <h2>Contact us</h2>
                     </div><!-- .custom-heading end -->
 
                     <div class="promo-box promo-bkg01">
-                        <h4>Drivers needed</h4>
                         <p>
-                            We are hiring drivers and have 2 opened
-                            positions. See what we offer and what we need
-                            and apply today!
+                            Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea.
                         </p>
 
                         <a href="driver-application.html" class="btn btn-medium btn-yellow">
-                            <span>apply now</span>
+                            <span>Contact us</span>
                         </a>
                     </div><!-- .promo-box end -->
                 </div><!-- .col-md-3 end -->

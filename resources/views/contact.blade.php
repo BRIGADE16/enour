@@ -19,16 +19,7 @@
                     </div><!-- .custom-heading.left end -->
 
                     <p>
-                        Cozy sphinx waves quart jug of bad milk. A very bad
-                        quack might jinx zippy fowls. Few quips galvanized
-                        the mock jury box. Quick brown dogs jump over the
-                        lazy fox. The jay, pig, fox, zebra, and my wolves
-                        quack! Blowzy red vixens fight for a quick jump.
-                        Joaquin Phoenix was gazed by MTV for luck. A
-                        wizard’s job is to vex chumps quickly in fog. Watch
-                        "Jeopardy!", Alex Trebek's fun TV quiz game.
-                        Woven silk pyjamas exchanged for blue quartz.
-                        Brawny gods just.
+                        Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea. Volumus patrioque contentiones mel eu. Ut malis consulatu mel, eam dolores platonem qualisque ad, vix no tantas libris. Quando graeci civibus eu nam, cum vide debitis minimum an.
                     </p>
 
                     <br>
@@ -59,9 +50,7 @@
                             </label>
 
                             <select class="wpcf7-form-control-wrap wpcf7-select" id="contact-inquiry">
-                                <option value="I need an offer for contract logistics">I need an offer for contract logistics</option>
-                                <option value="I need an offer for air freight">I need an offer for air freight</option>
-                                <option value="I want to become your partner">I want to become your partner</option>
+                                <option value="I need an offer for contract logistics">I need an offer</option>
                                 <option value="I have some other request">I have some other request</option>
                             </select>
                         </fieldset>
@@ -165,7 +154,7 @@
             var infowindow = new google.maps.InfoWindow();
 
             //CREATE A CUSTOM PIN ICON
-            var marker_image = 'img/pin.png';
+            var marker_image = '/img/pin.png';
             var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(21, 34));
 
             var marker, i;

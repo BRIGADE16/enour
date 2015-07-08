@@ -7,22 +7,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1>Services - Supply Chain Management</h1>
+                    <h1>Products</h1>
 
                     <div class="breadcrumb-container">
                         <ul class="breadcrumb clearfix">
                             <li>You are here:</li>
 
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="/{{Lang::getLocale()}}/">Home</a>
                             </li>
 
                             <li>
-                                <a href="services02.html">Services</a>
-                            </li>
-
-                            <li>
-                                <a href="#">Supply chain management</a>
+                                <a href="/{{Lang::getLocale()}}/products">Products</a>
                             </li>
                         </ul><!-- .breadcrumb end -->
                     </div><!-- .breadcrumb-container end -->
@@ -53,12 +49,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->
@@ -72,12 +68,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->
@@ -91,12 +87,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->
@@ -110,12 +106,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->
@@ -129,12 +125,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->
@@ -148,12 +144,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->
@@ -167,12 +163,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->
@@ -186,12 +182,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->
@@ -205,12 +201,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->
@@ -224,12 +220,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->
@@ -243,12 +239,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->
@@ -262,12 +258,12 @@
                     <li class="col-md-4">
                         <figure class="gallery-item-container">
                             <div class="gallery-item">
-                                <img src="img/pics/product.png" alt="">
+                                <img src="/img/pics/product.png" alt="">
 
                                 <div class="hover-mask-container">
                                     <div class="hover-mask"></div>
                                     <div class="hover-zoom">
-                                        <a href="img/pics/product.png" class="triggerZoom fa fa-search"></a>
+                                        <a href="/img/pics/product.png" class="triggerZoom fa fa-search"></a>
                                     </div><!-- .hover-details end -->
                                 </div><!-- .hover-mask-container end -->
                             </div><!-- .service-item end -->

@@ -1,25 +1,21 @@
 @extends('app')
 @section('content')
-    <div class="page-title-style01 page-title-negative-top pt-bkg12" style="margin-top: 116px;">
+    <div class="page-title-style01 page-title-negative-top pt-bkg13" style="margin-top: 116px;">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1>Services - Supply Chain Management</h1>
+                    <h1>Services</h1>
 
                     <div class="breadcrumb-container">
                         <ul class="breadcrumb clearfix">
                             <li>You are here:</li>
 
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="/{{Lang::getLocale()}}/">Home</a>
                             </li>
 
                             <li>
-                                <a href="services02.html">Services</a>
-                            </li>
-
-                            <li>
-                                <a href="#">Supply chain management</a>
+                                <a href="/{{Lang::getLocale()}}/services">Services</a>
                             </li>
                         </ul><!-- .breadcrumb end -->
                     </div><!-- .breadcrumb-container end -->
@@ -39,19 +35,11 @@
                     <img class="float-right animated triggerAnimation zoomIn" data-animate="zoomIn" src="img/pics/img36.jpg" alt="" style="opacity: 1;">
 
                     <p class="text-big">
-                        We provide complete supply chain management
-                        solutions tailored to fit your needs. From planning
-                        and analysis to quality control.
+                        Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea. Volumus patrioque contentiones mel eu. Ut malis consulatu mel, eam dolores platonem qualisque ad, vix no tantas libris. Quando graeci civibus eu nam, cum vide debitis minimum an.
                     </p>
 
                     <p>
-                        This is one more option for a homepage. As you can
-                        see there are different styles for each company
-                        size and requirement. You can choose from eight
-                        homepage styles or create your own, the choices are
-                        unlimited. We have investigated this industry and
-                        tried to provide you everything you need in a
-                        website design for a logistics company.
+                        Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea. Volumus patrioque contentiones mel eu. Ut malis consulatu mel, eam dolores platonem qualisque ad, vix no tantas libris. Quando graeci civibus eu nam, cum vide debitis minimum an.
                     </p>
                 </div><!-- .col-md-8 end -->
 
@@ -240,40 +228,28 @@
                     </div><!-- .custom-heading end -->
 
                     <p>
-                        But in certain circumstances and owing to the
-                        claims of duty or the obligations of business it
-                        will frequently occur that pleasures have to be
-                        repudiated and annoyances accepted. The wise man
-                        therefore always holds in these matters to this
-                        principle of selection: he rejects pleasures to
-                        secure other greater pleasures, or else he endures
-                        pains to avoid worse pains.
+                        Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea. Volumus patrioque contentiones mel eu. Ut malis consulatu mel, eam dolores platonem qualisque ad, vix no tantas libris. Quando graeci civibus eu nam, cum vide debitis minimum an.
                     </p>
 
                     <ul class="fa-ul">
                         <li>
                             <i class="fa fa-li fa-long-arrow-right"></i>
-                            Higher quality service by optimizing transport
-                            routes, means of transportation and reducing costs
+                            Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea.
                         </li>
 
                         <li>
                             <i class="fa fa-li fa-long-arrow-right"></i>
-                            Strong optimized supply chain infrastructure
-                            that will make a competitive advantage to your business
+                            Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea.s
                         </li>
 
                         <li>
                             <i class="fa fa-li fa-long-arrow-right"></i>
-                            Synchronized demand and supply which will enable
-                            easier and more accurate predictions of your
-                            clients needs
+                            Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea.
                         </li>
 
                         <li>
                             <i class="fa fa-li fa-long-arrow-right"></i>
-                            Effective quality measurement and monitoring
-                            will enable you to reduce costs and optimize your business.
+                            Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea.
                         </li>
                     </ul><!-- .fa-ul end -->
                 </div><!-- .col-md-6 end -->
