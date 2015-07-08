@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="enour">
+  <component name="PublishConfigData" serverName="enour.ngwebs.io">
     <serverData>
-      <paths name="enour">
+      <paths name="enour.ngwebs.io">
         <serverdata>
           <mappings>
             <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
