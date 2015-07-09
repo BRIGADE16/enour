@@ -32,7 +32,7 @@
                         <h2>the complete solution</h2>
                     </div>
 
-                    <img class="float-right animated triggerAnimation zoomIn" data-animate="zoomIn" src="img/pics/img36.jpg" alt="" style="opacity: 1;">
+                    <img class="float-right animated triggerAnimation zoomIn" data-animate="zoomIn" src="/img/pics/img36.jpg" alt="" style="opacity: 1;">
 
                     <p class="text-big">
                         Lorem ipsum dolor sit amet, cu aliquid delectus vivendum quo, delenit probatus suavitate ei mea. Volumus patrioque contentiones mel eu. Ut malis consulatu mel, eam dolores platonem qualisque ad, vix no tantas libris. Quando graeci civibus eu nam, cum vide debitis minimum an.

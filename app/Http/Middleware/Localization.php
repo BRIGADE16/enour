@@ -4,6 +4,7 @@ use Closure;
 use Illuminate\Routing\Redirector;
 use Illuminate\Http\Request;
 use Illuminate\Foundation\Application;
+use Illuminate\Support\Facades\Config;
 
 class Localization{
 
@@ -25,9 +26,9 @@ class Localization{
         // Make sure current locale exists.
         $locale = $request->segment(1);
 
-        if ( ! array_key_exists($locale, $this->app->config->get('app.locales'))) {
+        if ( ! array_key_exists($locale, Config::get('app.locales'))) {
             $segments = $request->segments();
-            $segments[0] = $this->app->config->get('app.fallback_locale');
+            $segments[0] = Config::get('app.fallback_locale');
 
             return $this->redirector->to(implode('/', $segments));
         }
